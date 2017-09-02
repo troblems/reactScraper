@@ -9,8 +9,8 @@ var IndexRoute	= require('react-router').IndexRoute;
 
 // Reference components
 var Main = require('./components/Main');
-var Search = require('./components/MainChildren/Search');
-var Saved = require('./components/MainChildren/SavedArticles');
+var Search = require('./components/Main/Search');
+var Saved = require('./components/Main/SavedArticles');
 
 // Renders according route page.
 ReactDOM.render(

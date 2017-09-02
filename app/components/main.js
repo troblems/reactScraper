@@ -2,8 +2,8 @@
 var React = require('react');
 
 // ...And components!
-var Nav = require('./MainChildren/Nav');
-var Jumbotron = require('./MainChildren/Jumbotron');
+var Nav = require('./Main/Nav');
+var Jumbotron = require('./Main/Jumbotron');
 
 // Helper function
 var helpers = require('./utils/helpers');
