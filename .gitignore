@@ -1,2 +1,9 @@
+# Dependency directories
 node_modules
 .DS_Store
+
+# Bundle
+public/bundle.js
+
+# Key
+app/config/key.js
